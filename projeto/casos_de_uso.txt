@@ -1,0 +1,16 @@
+Casos de uso
+
+1 - usuário realiza cadastro
+2 - usuário se cadastra como membro
+3 - como membro escolhe o plano de pagamento
+3.1 - sistema verifica o plano e gera as parcelas restantes do ano
+3.2 - dia 31/12 sistema gera as parcelas do próximo ano
+4 - como membro envia recidos de pagamento
+5 - membro solicita acesso de fiscal
+6 - administrador aprova acesso de fiscal
+7 - administrador cadastra fiscais
+8 - fiscal recebe email com link para validar o recibo de um membro
+9 - ao confirmar o recibo do membro o crédito é concedido e pagamento é registrado
+10 - relatório de mebro com parcelas pendentes
+11 - tela do membro mostra as parcelas pendentes e opção de entrar em starving
+12 - tela do conselho permite suspender membros que só poderão ser reabilitados pelo administrador
